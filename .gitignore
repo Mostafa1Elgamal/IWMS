@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+.env
+
+# Backend Dependencies
+IWMS-backend/node_modules/
+
+dist/
+build/
